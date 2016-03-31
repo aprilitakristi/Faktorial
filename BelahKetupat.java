@@ -7,7 +7,7 @@ package belahketupat;
 
 /**
  *
- * @author Praktikum
+ * @author Kristi
  */
 import java.util.Scanner;
 public class BelahKetupat {
